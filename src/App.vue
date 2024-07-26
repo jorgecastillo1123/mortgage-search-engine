@@ -1,13 +1,30 @@
 <template>
-  <div class="overflow-hidden bg-[#f7f7f7] py-24 sm:py-32 h-full">
+  <div class="overflow-hidden bg-[#f7f7f7] py-12 sm:py-32 h-full">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div class="lg:pr-8 lg:pt-4">
-          <div class="lg:max-w-lg">
+          <div class="lg:max-w-lg mb-4">
             <p class="mt-2 text-2xl font-bold tracking-tight text-gray-900">Glossary of Mortgage & Lending Terms</p>
-            <p class="mt-6 text-base text-gray-600">Use this glossary of mortgage terms to better understand the overall mortgage process as well as any specific mortgage terms that may be unfamiliar to you.</p>
+            <p class="mt-6 text-base text-gray-600">Use this glossary of mortgage terms to better understand the overall mortgage <strong>acronyms</strong> as well as any specific mortgage terms that may be unfamiliar to you.</p>
               <input v-model="search" type="search" id="search" class="mt-6 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Search" required />
           </div>
+
+          <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Recent searches:</h2>
+          <ul class="max-w-md space-y-1 text-gray-500 list-inside dark:text-gray-400">
+            <li class="flex items-center">
+              <svg class="w-3.5 h-3.5 me-2 text-green-500 dark:text-green-400 flex-shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
+              </svg>
+              PIP
+            </li>
+            <li class="flex items-center">
+              <svg class="w-3.5 h-3.5 me-2 text-green-500 dark:text-green-400 flex-shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
+              </svg>
+              TIL
+            </li>
+          </ul>
+
         </div>
         <!--results-->
         <div class="p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
