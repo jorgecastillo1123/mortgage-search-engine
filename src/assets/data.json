@@ -1,0 +1,390 @@
+[
+  {
+    "description":"American Bankers Association",
+    "short":"ABA"
+  },
+  {
+    "description":"Automated Clearing House",
+    "short":"ACH"
+  },
+  {
+    "description":"American Land Title Association",
+    "short":"ALTA"
+  },
+  {
+    "description":"Army Post Office",
+    "short":"APO"
+  },
+  {
+    "description":"Annual Percentage Rate",
+    "short":"APR"
+  },
+  {
+    "description":"Adjustable Rate Mortgage",
+    "short":"ARM"
+  },
+  {
+    "description":"Automated Valuation Model",
+    "short":"AVM"
+  },
+  {
+    "description":"Credit Alert Interactive Voice Response System",
+    "short":"CAIVRS"
+  },
+  {
+    "description":"Coastal Barrier Reform Act",
+    "short":"CBRA"
+  },
+  {
+    "description":"Consumer Financial Protection Bureau",
+    "short":"CFPB"
+  },
+  {
+    "description":"California Land Title Association",
+    "short":"CLTA"
+  },
+  {
+    "description":"Constant Maturity Treasury",
+    "short":"CMT"
+  },
+  {
+    "description":"Committee on Uniform Security Identification Procedures",
+    "short":"CUSIP"
+  },
+  {
+    "description":"Electronic (as in E Mortgage)",
+    "short":"E"
+  },
+  {
+    "description":"Fair And Accurate Credit Transaction Act",
+    "short":"FACTA"
+  },
+  {
+    "description":"Fair Debt Collection Practices Act",
+    "short":"FDCPA"
+  },
+  {
+    "description":"Federal Deposit Insurance Corporation",
+    "short":"FDIC"
+  },
+  {
+    "description":"Federal Emergency Management Agency",
+    "short":"FEMA"
+  },
+  {
+    "description":"Federal Housing Administration",
+    "short":"FHA"
+  },
+  {
+    "description":"Federal Housing Finance Board",
+    "short":"FHFB"
+  },
+  {
+    "description":"Federal Home Loan Bank",
+    "short":"FHLB"
+  },
+  {
+    "description":"Federal Home Loan Bank Board",
+    "short":"FHLBB"
+  },
+  {
+    "description":"Fair Isaac &amp;amp; Company",
+    "short":"FICO"
+  },
+  {
+    "description":"Federal Information Processing Standard",
+    "short":"FIPS"
+  },
+  {
+    "description":"Flood Insurance Rate Map",
+    "short":"FIRM"
+  },
+  {
+    "description":"Fannie Mae",
+    "short":"FNM"
+  },
+  {
+    "description":"Fleet Post Office",
+    "short":"FPO"
+  },
+  {
+    "description":"Federal Reserve Board",
+    "short":"FRB"
+  },
+  {
+    "description":"Freddie Mac",
+    "short":"FRE"
+  },
+  {
+    "description":"Federal Reserve System",
+    "short":"FRS"
+  },
+  {
+    "description":"File Transfer Protocol",
+    "short":"FTP"
+  },
+  {
+    "description":"Growing Equity Mortgage",
+    "short":"GEM"
+  },
+  {
+    "description":"Good Faith Estimate",
+    "short":"GFE"
+  },
+  {
+    "description":"Government National Mortgage Association",
+    "short":"GNMA"
+  },
+  {
+    "description":"Graduated Payment Mortgage",
+    "short":"GPM"
+  },
+  {
+    "description":"Government Sponsored Enterprise",
+    "short":"GSE"
+  },
+  {
+    "description":"Home Affordable Modification Program",
+    "short":"HAMP"
+  },
+  {
+    "description":"Home Equity Conversion Mortgage",
+    "short":"HECM"
+  },
+  {
+    "description":"Home Equity Line of Credit",
+    "short":"HELOC"
+  },
+  {
+    "description":"Home Energy Rating System",
+    "short":"HERS"
+  },
+  {
+    "description":"Home Mortgage Disclosure Act",
+    "short":"HMDA"
+  },
+  {
+    "description":"Home Ownership and Equity Protection Act",
+    "short":"HOEPA"
+  },
+  {
+    "description":"Hypertext Transfer Protocol",
+    "short":"HTTP"
+  },
+  {
+    "description":"Hypertext Transfer Protocol Secure",
+    "short":"HTTPS"
+  },
+  {
+    "description":"Department of Housing and Urban Development",
+    "short":"HUD"
+  },
+  {
+    "description":"Individual Retirement Account",
+    "short":"IRA"
+  },
+  {
+    "description":"Internal Revenue Service",
+    "short":"IRS"
+  },
+  {
+    "description":"London Interbank Offered Rate",
+    "short":"LIBOR"
+  },
+  {
+    "description":"Letter Of Map Amendment",
+    "short":"LOMA"
+  },
+  {
+    "description":"Letter Of Map Revision",
+    "short":"LOMR"
+  },
+  {
+    "description":"Loan To Value",
+    "short":"LTV"
+  },
+  {
+    "description":"Mortgage Backed Security",
+    "short":"MBS"
+  },
+  {
+    "description":"Mortgage Electronic Registration Systems",
+    "short":"MERS"
+  },
+  {
+    "description":"Mortgage Insurance",
+    "short":"MI"
+  },
+  {
+    "description":"Multipurpose Internet Mail Extensions",
+    "short":"MIME"
+  },
+  {
+    "description":"Mortgage Identification Number",
+    "short":"MIN"
+  },
+  {
+    "description":"Mortgage Industry Standards Maintenance Organization",
+    "short":"MISMO"
+  },
+  {
+    "description":"Multiple Listing Service",
+    "short":"MLS"
+  },
+  {
+    "description":"Metropolitan Statistical Area",
+    "short":"MSA"
+  },
+  {
+    "description":"Monthly Treasury Average",
+    "short":"MTA"
+  },
+  {
+    "description":"National Automobile Dealers Association",
+    "short":"NADA"
+  },
+  {
+    "description":"National Association of Insurance Commissioners",
+    "short":"NAIC"
+  },
+  {
+    "description":"National Flood Insurance Program",
+    "short":"NFIP"
+  },
+  {
+    "description":"Net Present Value",
+    "short":"NPV"
+  },
+  {
+    "description":"Non-Sufficient Funds",
+    "short":"NSF"
+  },
+  {
+    "description":"Office of Foreign Assets Control",
+    "short":"OFAC"
+  },
+  {
+    "description":"Office of Thrift Supervision",
+    "short":"OTS"
+  },
+  {
+    "description":"Principal, Interest, Taxes and Insurance",
+    "short":"PITI"
+  },
+  {
+    "description":"Planned Unit Development",
+    "short":"PUD"
+  },
+  {
+    "description":"Real Estate Owned",
+    "short":"REO"
+  },
+  {
+    "description":"Real Estate Settlement Procedures Act",
+    "short":"RESPA"
+  },
+  {
+    "description":"Servicemembers Civil Relief Act",
+    "short":"SCRA"
+  },
+  {
+    "description":"Single Family Default Monitoring System",
+    "short":"SFDMS"
+  },
+  {
+    "description":"Securable Manageable Archivable Retrievable Transferable",
+    "short":"SMART"
+  },
+  {
+    "description":"Simple Mail Transfer Protocol",
+    "short":"SMTP"
+  },
+  {
+    "description":"Social Security Number",
+    "short":"SSN"
+  },
+  {
+    "description":"Truth In Lending",
+    "short":"TIL"
+  },
+  {
+    "description":"Texas Land Title Association",
+    "short":"TLTA"
+  },
+  {
+    "description":"TILA RESPA Integrated Disclosure",
+    "short":"TRID"
+  },
+  {
+    "description":"A telecommunications device for the hearing or sight impaired. (originally called a Teletypewriter)",
+    "short":"TTY"
+  },
+  {
+    "description":"Uniform Commercial Code",
+    "short":"UCC"
+  },
+  {
+    "description":"Unpaid Principal Balance",
+    "short":"UPB"
+  },
+  {
+    "description":"Uniform Resource Identifier",
+    "short":"URI"
+  },
+  {
+    "description":"Uniform Resource Locator",
+    "short":"URL"
+  },
+  {
+    "description":"Uniform Residential Loan Application",
+    "short":"URLA"
+  },
+  {
+    "description":"Uniform Resource Name",
+    "short":"URN"
+  },
+  {
+    "description":"United States",
+    "short":"US"
+  },
+  {
+    "description":"United States of America",
+    "short":"USA"
+  },
+  {
+    "description":"United States Department of Agriculture",
+    "short":"USDA"
+  },
+  {
+    "description":"Uniform Standards of Professional Appraisal Practice",
+    "short":"USPAP"
+  },
+  {
+    "description":"United States Postal Service",
+    "short":"USPS"
+  },
+  {
+    "description":"United States Treasury",
+    "short":"UST"
+  },
+  {
+    "description":"Department Of Veterans Affairs",
+    "short":"VA"
+  },
+  {
+    "description":"Value Added Network",
+    "short":"VAN"
+  },
+  {
+    "description":"Wall Street Journal",
+    "short":"WSJ"
+  },
+  {
+    "description":"Extensible Markup Language",
+    "short":"XML"
+  },
+  {
+    "description":"Progress item page",
+    "short":"PIP"
+  }
+]
