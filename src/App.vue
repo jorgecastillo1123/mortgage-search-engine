@@ -10,7 +10,7 @@
           </div>
         </div>
         <!--results-->
-        <div class="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
           <div v-if="!search || results.length === 0" class="flex items-center justify-center">
             <div class="grid gap-4 w-60">
               <div class="w-20 h-20 mx-auto bg-gray-50 rounded-full shadow-sm justify-center items-center inline-flex">
