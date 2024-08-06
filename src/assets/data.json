@@ -386,5 +386,37 @@
   {
     "description":"Progress item page",
     "short":"PIP"
+  },
+  {
+    "description":"Details of Transaction",
+    "short":"DOT"
+  },
+  {
+    "description":"Notice of Incomplete Application",
+    "short":"NOIA"
+  },
+  {
+    "description":"Loan Estimate (Initial disclosure)",
+    "short":"LE"
+  },
+  {
+    "description":"Home Equity Line Of Credit",
+    "short":"HELOC"
+  },
+  {
+    "description":"High Credit Loan To Value",
+    "short":"HCLTV"
+  },
+  {
+    "description":"Qualified Mortgage",
+    "short":"QM"
+  },
+  {
+    "description":"Net tangible benefit",
+    "short":"NTB"
+  },
+  {
+    "description":"Underwriter",
+    "short":"UW"
   }
 ]
